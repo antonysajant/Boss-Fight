@@ -1,0 +1,1807 @@
+fileFormatVersion: 2
+guid: e89a5508102527e4d9b4b05f504751f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1918753229709017574
+    second: Rogue-Knight_0
+  - first:
+      213: -2362542608190052316
+    second: Rogue-Knight_1
+  - first:
+      213: -7240840472238315179
+    second: Rogue-Knight_2
+  - first:
+      213: -2730405778058746166
+    second: Rogue-Knight_3
+  - first:
+      213: 2689235855959626598
+    second: Rogue-Knight_4
+  - first:
+      213: 3304512014105234987
+    second: Rogue-Knight_5
+  - first:
+      213: -3310596541760845964
+    second: Rogue-Knight_6
+  - first:
+      213: 2381031028563126755
+    second: Rogue-Knight_7
+  - first:
+      213: 5668250723628824452
+    second: Rogue-Knight_8
+  - first:
+      213: 6573481450611314930
+    second: Rogue-Knight_9
+  - first:
+      213: 9163617473698058882
+    second: Rogue-Knight_10
+  - first:
+      213: -2832891036364470383
+    second: Rogue-Knight_11
+  - first:
+      213: 204332992910835887
+    second: Rogue-Knight_12
+  - first:
+      213: -687949771626123032
+    second: Rogue-Knight_13
+  - first:
+      213: -8471175551032092239
+    second: Rogue-Knight_14
+  - first:
+      213: -993238668063157438
+    second: Rogue-Knight_15
+  - first:
+      213: 3840952892587830694
+    second: Rogue-Knight_16
+  - first:
+      213: 4692112941170992378
+    second: Rogue-Knight_17
+  - first:
+      213: -4581832914830456414
+    second: Rogue-Knight_18
+  - first:
+      213: -9157405727686327941
+    second: Rogue-Knight_19
+  - first:
+      213: -3739684638259636308
+    second: Rogue-Knight_20
+  - first:
+      213: -6443953192195790135
+    second: Rogue-Knight_21
+  - first:
+      213: -8262134187731414588
+    second: Rogue-Knight_22
+  - first:
+      213: 7745391020794376806
+    second: Rogue-Knight_23
+  - first:
+      213: 5798306061615442602
+    second: Rogue-Knight_24
+  - first:
+      213: -744095656142586805
+    second: Rogue-Knight_25
+  - first:
+      213: -4833049305102822473
+    second: Rogue-Knight_26
+  - first:
+      213: 6470373635712565972
+    second: Rogue-Knight_27
+  - first:
+      213: -7582040480372175614
+    second: Rogue-Knight_28
+  - first:
+      213: -7184614426491694837
+    second: Rogue-Knight_29
+  - first:
+      213: 4793041459735011965
+    second: Rogue-Knight_30
+  - first:
+      213: -6605486598182820478
+    second: Rogue-Knight_31
+  - first:
+      213: -365349966492199538
+    second: Rogue-Knight_32
+  - first:
+      213: 6758267948171878948
+    second: Rogue-Knight_33
+  - first:
+      213: -3152215768714503692
+    second: Rogue-Knight_34
+  - first:
+      213: 2846354583918653396
+    second: Rogue-Knight_35
+  - first:
+      213: 4093758501651428851
+    second: Rogue-Knight_36
+  - first:
+      213: 5407683638319869697
+    second: Rogue-Knight_37
+  - first:
+      213: 6413617360347933421
+    second: Rogue-Knight_38
+  - first:
+      213: 1482124356522958442
+    second: Rogue-Knight_39
+  - first:
+      213: 3990947170919456880
+    second: Rogue-Knight_40
+  - first:
+      213: 3460674649781445485
+    second: Rogue-Knight_41
+  - first:
+      213: -4358362651893968922
+    second: Rogue-Knight_42
+  - first:
+      213: 1165413234145208960
+    second: Rogue-Knight_43
+  - first:
+      213: 9113411292849722963
+    second: Rogue-Knight_44
+  - first:
+      213: -1173863116878830739
+    second: Rogue-Knight_45
+  - first:
+      213: 6996875888932899190
+    second: Rogue-Knight_46
+  - first:
+      213: -7597047089838444067
+    second: Rogue-Knight_47
+  - first:
+      213: 4504859484133161381
+    second: Rogue-Knight_48
+  - first:
+      213: 8045943969216018129
+    second: Rogue-Knight_49
+  - first:
+      213: -8601295578618995763
+    second: Rogue-Knight_50
+  - first:
+      213: 2602579975474943851
+    second: Rogue-Knight_51
+  - first:
+      213: 7457187388050180699
+    second: Rogue-Knight_52
+  - first:
+      213: 7005186495799571637
+    second: Rogue-Knight_53
+  - first:
+      213: 7573641357228246601
+    second: Rogue-Knight_54
+  - first:
+      213: 8410090199673984203
+    second: Rogue-Knight_55
+  - first:
+      213: -2487567003808524510
+    second: Rogue-Knight_56
+  - first:
+      213: 584305216884899674
+    second: Rogue-Knight_57
+  - first:
+      213: 8760056380956374383
+    second: Rogue-Knight_58
+  - first:
+      213: 6818884959820960149
+    second: Rogue-Knight_59
+  - first:
+      213: -4064504200324092910
+    second: Rogue-Knight_60
+  - first:
+      213: -748356066788362741
+    second: Rogue-Knight_61
+  - first:
+      213: 642258306250748259
+    second: Rogue-Knight_62
+  - first:
+      213: -3948520370945004706
+    second: Rogue-Knight_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Rogue-Knight_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 408
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e7f838a183f55e0800000000000000
+      internalID: -1918753229709017574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 408
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4286b10e300963fd0800000000000000
+      internalID: -2362542608190052316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 408
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559a6f044fd538b90800000000000000
+      internalID: -7240840472238315179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 408
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac662224966ab1ad0800000000000000
+      internalID: -2730405778058746166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 371
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66397b743c5125520800000000000000
+      internalID: 2689235855959626598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_5
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 371
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ec0c43b2cfbdd20800000000000000
+      internalID: 3304512014105234987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 371
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47745bd4cf56e02d0800000000000000
+      internalID: -3310596541760845964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 371
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e920b0fa1f1b0120800000000000000
+      internalID: 2381031028563126755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_8
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 371
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4873fbf500ca9ae40800000000000000
+      internalID: 5668250723628824452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 371
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f09e413d82b93b50800000000000000
+      internalID: 6573481450611314930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 338
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282d5599a85bb2f70800000000000000
+      internalID: 9163617473698058882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_11
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 338
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1978b1a9c9c8fa8d0800000000000000
+      internalID: -2832891036364470383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 338
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0c75246cfe5d200800000000000000
+      internalID: 204332992910835887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 334
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0f9eed359e376f0800000000000000
+      internalID: -687949771626123032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 334
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b912c2f7b6507a80800000000000000
+      internalID: -8471175551032092239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 335
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243d9ec91be4732f0800000000000000
+      internalID: -993238668063157438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 337
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ade4b93e4ecd4530800000000000000
+      internalID: 3840952892587830694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 339
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4a2803cdbbd1140800000000000000
+      internalID: 4692112941170992378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_18
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 334
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a986535d3f0a60c0800000000000000
+      internalID: -4581832914830456414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_19
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 334
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b710129320c5ae080800000000000000
+      internalID: -9157405727686327941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 297
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca79c8c92a8f91cc0800000000000000
+      internalID: -3739684638259636308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 297
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9caece596ba7296a0800000000000000
+      internalID: -6443953192195790135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_22
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 297
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c198ad1bb0075d80800000000000000
+      internalID: -8262134187731414588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 297
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662f2f8b8182d7b60800000000000000
+      internalID: 7745391020794376806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 297
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa259d64a8b77050800000000000000
+      internalID: 5798306061615442602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 297
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4cb5b071f07ca5f0800000000000000
+      internalID: -744095656142586805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_26
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 297
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3d56b734f8decb0800000000000000
+      internalID: -4833049305102822473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_27
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 260
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d243b84a826bc950800000000000000
+      internalID: 6470373635712565972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_28
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 297
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dc8ceba5e27c690800000000000000
+      internalID: -7582040480372175614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_29
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 297
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01d0dcae3f1b4c90800000000000000
+      internalID: -7184614426491694837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 260
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72a93120dd448240800000000000000
+      internalID: 4793041459735011965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_31
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 223
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285a5b2bfe89454a0800000000000000
+      internalID: -6605486598182820478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_32
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 260
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85188424240eeaf0800000000000000
+      internalID: -365349966492199538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_33
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 260
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42261bb54e03acd50800000000000000
+      internalID: 6758267948171878948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_34
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 260
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f91362a5741144d0800000000000000
+      internalID: -3152215768714503692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_35
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 260
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfa647d968408720800000000000000
+      internalID: 2846354583918653396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_36
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 260
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f53b27eaa3ffc830800000000000000
+      internalID: 4093758501651428851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_37
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 260
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f6fbf2e93fb0b40800000000000000
+      internalID: 5407683638319869697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 260
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea21d8220fb10950800000000000000
+      internalID: 6413617360347933421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_39
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 260
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e5187ef30919410800000000000000
+      internalID: 1482124356522958442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 223
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07021089e41b26730800000000000000
+      internalID: 3990947170919456880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 223
+        width: 86
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d632c6f2249c60030800000000000000
+      internalID: 3460674649781445485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 223
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efc78b724cf383c0800000000000000
+      internalID: -4358362651893968922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_43
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 223
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08aa3cd69216c2010800000000000000
+      internalID: 1165413234145208960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_44
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 223
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35657523947597e70800000000000000
+      internalID: 9113411292849722963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_45
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 223
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63218fe6b995bfe0800000000000000
+      internalID: -1173863116878830739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_46
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 223
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6794759cc85e91160800000000000000
+      internalID: 6996875888932899190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_47
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 223
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1b3443cedd19690800000000000000
+      internalID: -7597047089838444067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 186
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a97ec245d9748e30800000000000000
+      internalID: 4504859484133161381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 186
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d631d7296fe8af60800000000000000
+      internalID: 8045943969216018129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 186
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbd64c2e3f02a880800000000000000
+      internalID: -8601295578618995763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 186
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b679ab9d2b83e1420800000000000000
+      internalID: 2602579975474943851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_52
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 186
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a01486b604d7760800000000000000
+      internalID: 7457187388050180699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_53
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 186
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b43f7bb00c673160800000000000000
+      internalID: 7005186495799571637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_54
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 149
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9460cc100bafa1960800000000000000
+      internalID: 7573641357228246601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_55
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 149
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4df806a74a6b470800000000000000
+      internalID: 8410090199673984203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_56
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 149
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227920f5df26a7dd0800000000000000
+      internalID: -2487567003808524510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_57
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 149
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ff4dcbf7edb1800800000000000000
+      internalID: 584305216884899674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 149
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f657c4f9dd8f19970800000000000000
+      internalID: 8760056380956374383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_59
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591d1623ebb81ae50800000000000000
+      internalID: 6818884959820960149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_60
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 112
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c6997e6faf797c0800000000000000
+      internalID: -4064504200324092910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 112
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0632994f1e4d95f0800000000000000
+      internalID: -748356066788362741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_62
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 112
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361be16d682c9e800800000000000000
+      internalID: 642258306250748259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rogue-Knight_63
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 112
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bed6d84a90439c0800000000000000
+      internalID: -3948520370945004706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Rogue-Knight_0: -1918753229709017574
+      Rogue-Knight_1: -2362542608190052316
+      Rogue-Knight_10: 9163617473698058882
+      Rogue-Knight_11: -2832891036364470383
+      Rogue-Knight_12: 204332992910835887
+      Rogue-Knight_13: -687949771626123032
+      Rogue-Knight_14: -8471175551032092239
+      Rogue-Knight_15: -993238668063157438
+      Rogue-Knight_16: 3840952892587830694
+      Rogue-Knight_17: 4692112941170992378
+      Rogue-Knight_18: -4581832914830456414
+      Rogue-Knight_19: -9157405727686327941
+      Rogue-Knight_2: -7240840472238315179
+      Rogue-Knight_20: -3739684638259636308
+      Rogue-Knight_21: -6443953192195790135
+      Rogue-Knight_22: -8262134187731414588
+      Rogue-Knight_23: 7745391020794376806
+      Rogue-Knight_24: 5798306061615442602
+      Rogue-Knight_25: -744095656142586805
+      Rogue-Knight_26: -4833049305102822473
+      Rogue-Knight_27: 6470373635712565972
+      Rogue-Knight_28: -7582040480372175614
+      Rogue-Knight_29: -7184614426491694837
+      Rogue-Knight_3: -2730405778058746166
+      Rogue-Knight_30: 4793041459735011965
+      Rogue-Knight_31: -6605486598182820478
+      Rogue-Knight_32: -365349966492199538
+      Rogue-Knight_33: 6758267948171878948
+      Rogue-Knight_34: -3152215768714503692
+      Rogue-Knight_35: 2846354583918653396
+      Rogue-Knight_36: 4093758501651428851
+      Rogue-Knight_37: 5407683638319869697
+      Rogue-Knight_38: 6413617360347933421
+      Rogue-Knight_39: 1482124356522958442
+      Rogue-Knight_4: 2689235855959626598
+      Rogue-Knight_40: 3990947170919456880
+      Rogue-Knight_41: 3460674649781445485
+      Rogue-Knight_42: -4358362651893968922
+      Rogue-Knight_43: 1165413234145208960
+      Rogue-Knight_44: 9113411292849722963
+      Rogue-Knight_45: -1173863116878830739
+      Rogue-Knight_46: 6996875888932899190
+      Rogue-Knight_47: -7597047089838444067
+      Rogue-Knight_48: 4504859484133161381
+      Rogue-Knight_49: 8045943969216018129
+      Rogue-Knight_5: 3304512014105234987
+      Rogue-Knight_50: -8601295578618995763
+      Rogue-Knight_51: 2602579975474943851
+      Rogue-Knight_52: 7457187388050180699
+      Rogue-Knight_53: 7005186495799571637
+      Rogue-Knight_54: 7573641357228246601
+      Rogue-Knight_55: 8410090199673984203
+      Rogue-Knight_56: -2487567003808524510
+      Rogue-Knight_57: 584305216884899674
+      Rogue-Knight_58: 8760056380956374383
+      Rogue-Knight_59: 6818884959820960149
+      Rogue-Knight_6: -3310596541760845964
+      Rogue-Knight_60: -4064504200324092910
+      Rogue-Knight_61: -748356066788362741
+      Rogue-Knight_62: 642258306250748259
+      Rogue-Knight_63: -3948520370945004706
+      Rogue-Knight_7: 2381031028563126755
+      Rogue-Knight_8: 5668250723628824452
+      Rogue-Knight_9: 6573481450611314930
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
