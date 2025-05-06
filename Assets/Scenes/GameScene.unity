@@ -485,9 +485,10 @@ GameObject:
   - component: {fileID: 2126162744}
   - component: {fileID: 2126162743}
   - component: {fileID: 2126162742}
-  - component: {fileID: 2126162741}
   - component: {fileID: 2126162745}
   - component: {fileID: 2126162746}
+  - component: {fileID: 2126162747}
+  - component: {fileID: 2126162748}
   m_Layer: 0
   m_Name: Player
   m_TagString: Player
@@ -495,23 +496,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &2126162741
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2126162740}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f0575215861e1a64b8a84e85f092be3b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 10
-  jumpspeed: 2.5
-  rb: {fileID: 2126162745}
-  anim: {fileID: 2126162746}
-  spriterend: {fileID: 2126162743}
 --- !u!70 &2126162742
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -668,6 +652,37 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2126162747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2126162740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f0575215861e1a64b8a84e85f092be3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
+  jumpspeed: 2.75
+  rb: {fileID: 2126162745}
+  anim: {fileID: 2126162746}
+  spriterend: {fileID: 2126162743}
+--- !u!114 &2126162748
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2126162740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 069f741d13b629d4b832554a3a761969, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  anim: {fileID: 2126162746}
+  move: {fileID: 2126162747}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     float horizontalInput;
     [SerializeField] float speed = 5f;
@@ -19,6 +19,11 @@ public class Player : MonoBehaviour
         horizontalInput = Input.GetAxis("Horizontal");
         anim.SetFloat("Run", Mathf.Abs(horizontalInput));
         movement();
+
+        if (Input.GetKeyDown(KeyCode.Mouse0))
+        {
+            Attack();
+        }
     }
 
     void movement()
@@ -36,7 +41,7 @@ public class Player : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             Debug.Log("Jump");
-            anim.SetBool("Jump",true);
+            anim.SetBool("Jump", true);
             rb.linearVelocityY = speed;
         }
     }
@@ -49,5 +54,10 @@ public class Player : MonoBehaviour
             anim.SetBool("Jump", false);
         }
 
+    }
+
+    void Attack()
+    {
+        anim.SetTrigger("Attack");
     }
 }
