@@ -36,12 +36,18 @@ public class Player : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             Debug.Log("Jump");
+            anim.SetBool("Jump",true);
             rb.linearVelocityY = speed;
         }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log("Touched Ground");
+        if (collision.collider.tag == "Ground")
+        {
+            Debug.Log("Touched Ground");
+            anim.SetBool("Jump", false);
+        }
+
     }
 }
