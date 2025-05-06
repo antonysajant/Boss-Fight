@@ -353,7 +353,7 @@ GameObject:
   - component: {fileID: 721029011}
   m_Layer: 0
   m_Name: Level
-  m_TagString: Untagged
+  m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -490,7 +490,7 @@ GameObject:
   - component: {fileID: 2126162746}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -510,6 +510,8 @@ MonoBehaviour:
   speed: 10
   jumpspeed: 2.5
   rb: {fileID: 2126162745}
+  anim: {fileID: 2126162746}
+  spriterend: {fileID: 2126162743}
 --- !u!70 &2126162742
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
