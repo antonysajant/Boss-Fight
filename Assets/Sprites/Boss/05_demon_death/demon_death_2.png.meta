@@ -60,7 +60,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -235,7 +235,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      demon_death_2_0: 1057690775472093154
+      demon_death_2_1: 6431962448944402051
+      demon_death_2_2: -2959392156089744040
+      demon_death_2_3: 6548266829737916932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
