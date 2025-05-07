@@ -137,10 +137,10 @@ TextureImporter:
         serializedVersion: 2
         x: 105
         y: 0
-        width: 82
-        height: 96
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 81
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0.475}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -153,55 +153,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: demon_take_hit_5_1
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 69
-        width: 12
-        height: 36
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 02a7d36003c15cd80800000000000000
-      internalID: -8231141751361013216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: demon_take_hit_5_2
-      rect:
-        serializedVersion: 2
-        x: 152
-        y: 70
-        width: 12
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 570e4edaabc037290800000000000000
-      internalID: -7893951725929439115
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 969f9daabdfee2a4696b1f053e1925de
     internalID: 0
     vertices: []
     indices: 
