@@ -138,9 +138,9 @@ TextureImporter:
         x: 100
         y: 0
         width: 93
-        height: 99
+        height: 110
       alignment: 9
-      pivot: {x: 0.5, y: 0.5050505}
+      pivot: {x: 0.5, y: 0.45909092}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -149,50 +149,6 @@ TextureImporter:
       bones: []
       spriteID: 561fba60e02db8fc0800000000000000
       internalID: -3491466128412380827
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: demon_idle_5_1
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 71
-        width: 12
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09d1bbdbcbdf99c70800000000000000
-      internalID: 8978486319218630032
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: demon_idle_5_2
-      rect:
-        serializedVersion: 2
-        x: 151
-        y: 72
-        width: 13
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fbe4bdd1f146f6fd0800000000000000
-      internalID: -2346546796029063489
       vertices: []
       indices: 
       edges: []
