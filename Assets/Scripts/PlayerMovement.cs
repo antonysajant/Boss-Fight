@@ -19,11 +19,6 @@ public class PlayerMovement : MonoBehaviour
         horizontalInput = Input.GetAxis("Horizontal");
         anim.SetFloat("Run", Mathf.Abs(horizontalInput));
         movement();
-
-        if (Input.GetKeyDown(KeyCode.Mouse0))
-        {
-            Attack();
-        }
     }
 
     void movement()
@@ -33,7 +28,7 @@ public class PlayerMovement : MonoBehaviour
             spriterend.flipX = false;
             transform.Translate(Vector2.right * speed * Time.deltaTime);
         }
-        else if (horizontalInput < -0.4) 
+        else if (horizontalInput < -0.4)
         {
             spriterend.flipX = true;
             transform.Translate(Vector2.left * speed * Time.deltaTime);
@@ -41,23 +36,8 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             Debug.Log("Jump");
-            anim.SetBool("Jump", true);
+            anim.SetTrigger("Jump");
             rb.linearVelocityY = speed;
         }
-    }
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.collider.tag == "Ground")
-        {
-            Debug.Log("Touched Ground");
-            anim.SetBool("Jump", false);
-        }
-
-    }
-
-    void Attack()
-    {
-        anim.SetTrigger("Attack");
     }
 }
