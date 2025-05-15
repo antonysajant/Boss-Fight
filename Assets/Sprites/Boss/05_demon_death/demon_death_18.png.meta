@@ -135,59 +135,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: demon_death_18_0
-      rect:
-        serializedVersion: 2
-        x: 154
-        y: 117
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: de38e7a1a3d5642c0800000000000000
-      internalID: -4447765077847800851
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: demon_death_18_1
-      rect:
-        serializedVersion: 2
-        x: 183
-        y: 112
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a9e93cad62bbf3350800000000000000
-      internalID: 5998719004234194586
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: demon_death_18_2
       rect:
         serializedVersion: 2
-        x: 108
+        x: 99
         y: 0
-        width: 116
-        height: 86
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 130
+        height: 125
+      alignment: 9
+      pivot: {x: 0.375, y: 0.405}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -200,33 +156,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: demon_death_18_3
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 78
-        width: 38
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c620e45afce69f90800000000000000
-      internalID: -6947104815262456120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 61819def77e612e408a0cf27f7a5a40d
     internalID: 0
     vertices: []
     indices: 

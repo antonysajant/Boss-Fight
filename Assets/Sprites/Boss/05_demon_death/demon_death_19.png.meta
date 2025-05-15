@@ -132,12 +132,12 @@ TextureImporter:
       name: demon_death_19_0
       rect:
         serializedVersion: 2
-        x: 108
+        x: 99
         y: 0
-        width: 116
-        height: 123
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 130
+        height: 125
+      alignment: 9
+      pivot: {x: 0.375, y: 0.405}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -150,33 +150,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: demon_death_19_1
-      rect:
-        serializedVersion: 2
-        x: 168
-        y: 81
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b44f5e1fc3ad20a30800000000000000
-      internalID: 4180143359444513867
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1561349824b920c4a87590adf84ec99d
     internalID: 0
     vertices: []
     indices: 

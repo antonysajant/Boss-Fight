@@ -129,12 +129,12 @@ TextureImporter:
       name: demon_death_20_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 99
         y: 0
-        width: 288
-        height: 160
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        width: 130
+        height: 125
+      alignment: 9
+      pivot: {x: 0.375, y: 0.405}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -151,7 +151,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5ac3d838e1a075646b3a083e496721fe
     internalID: 0
     vertices: []
     indices: 
